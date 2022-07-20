@@ -9,6 +9,7 @@
 
 - https://en.wikipedia.org/wiki/Syslog-ng
 
+- https://www.dataset.com/blog/the-10-commandments-of-logging/
 
 
 
