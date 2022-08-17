@@ -27,8 +27,7 @@
     Não colocar Estruturas de Dados complexas, pra não atrapalhar o parser
 
 ### - Info:
-    Mensagens diretas
-    Evento de negócio significativo    
+    Evento que possui relevância de negócio    
     ex:
         "Transação executada"
         "Compra efetuada"
@@ -38,7 +37,7 @@
     .Tempo de execução
 ### - Warning:
     .Algo que pode ou não ser um problema
-    .Security
+    .Security (varias req não autenticadas)
     .Possível timeout
     .Refazer alguma operação. Tentar de novo algo que deu errado
     .Valores não previstos causando estranheza no sistema
